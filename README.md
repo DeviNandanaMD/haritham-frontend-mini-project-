@@ -1,4 +1,3 @@
-<title>Haritham User Roles</title> <style> body { font-family: Arial, sans-serif; text-align: center; margin: 50px; background-color: #f4f4f4; } h1 { font-size: 28px; color: #b90b08; } .box { width: 250px; margin: 20px auto; padding: 15px; border: 2px solid #000; background-color: white; font-size: 18px; font-weight: bold; cursor: pointer; transition: 0.3s; } .box:hover { background-color: #ddd; } </style>
 <h1>HARITHAM</h1>
 
 <div class="box" onclick="showMessage('Admin')">ADMIN</div>
